@@ -1,5 +1,5 @@
 ## Software-Security
-analysis of advanced security concepts, and develop secure code that complies with security testing protocols.
+Analysis of advanced security concepts, and develop secure code that complies with security testing protocols.
 
 # Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 Artemis Financial is a consulting firm specializing in crafting tailored financial plans for clients. The client wants to update their operations and enhance the security of their web-based software application. The primary concern for the client was pinpointing and resolving any security weaknesses within their application. They also want to guarantee protection against external threats and maintain the confidentiality of their customers' financial information.
