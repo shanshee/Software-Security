@@ -9,6 +9,3 @@
 ![Slide9](https://github.com/shanshee/Software-Security/assets/119387308/c3992833-3889-483b-9d3a-680cb3136bdb)
 ![Slide10](https://github.com/shanshee/Software-Security/assets/119387308/187b870c-48ed-483f-92eb-05d369c06977)
 ![Slide11](https://github.com/shanshee/Software-Security/assets/119387308/3bbd39ab-bc6b-4d2a-bf44-d1478ae906e5)
-![Slide12](https://github.com/shanshee/Software-Security/assets/119387308/7892eef3-4c5c-4006-b823-275acb80a85f)
-![Slide13](https://github.com/shanshee/Software-Security/assets/119387308/bfdb87e3-8292-4547-b72a-9ed453c33227)
-![Slide14](https://github.com/shanshee/Software-Security/assets/119387308/92d4a965-a520-42e6-b43c-e0ec7d90178f)
