@@ -18,8 +18,8 @@ I conducted a manual review of the codebase to identify potential security vulne
 In order to guarantee the functionality and security of the code and software application, I conducted extensive testing, including functional and security testing, to ensure the application behaved as expected and met requirements, while also identifying any vulnerabilities in its security controls. I made sure the code complied with security guidelines and best practices. To ensure that the refactoring did not inadvertently break any existing security controls or introduce vulnerabilities in previously secure areas, I conducted regression testing. This involved retesting the previously secure functionality and verifying that the security measures remained effective.
 
 # What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
-Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
-I used static code analysis tools such as dependency-check plug-in for Maven to identify security vulnerabilities in the codebase. These tools can be valuable in future assignments for automated vulnerability scanning and code analysis. I can share the vulnerability assessment report I created, which highlights the identified security vulnerabilities, their impact, and recommended mitigation strategies. This demonstrates my ability to analyze and address security risks in a software application.
+I used static code analysis tools such as dependency-check plug-in for Maven to identify security vulnerabilities in the codebase. These tools can be valuable in future assignments for automated vulnerability scanning and code analysis. 
+
 ![Slide1](https://github.com/shanshee/Software-Security/assets/119387308/85d47933-596f-48a1-be02-5a6d5f8bff04)
 ![Slide2](https://github.com/shanshee/Software-Security/assets/119387308/0d7cc1e2-d2ca-4792-ae2d-e1544e1b0217)
 ![Slide3](https://github.com/shanshee/Software-Security/assets/119387308/4cf5f4ca-ad1e-4024-80bf-be2bc7f6a7a3)
