@@ -20,3 +20,16 @@ In order to guarantee the functionality and security of the code and software ap
 # What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 I used static code analysis tools such as dependency-check plug-in for Maven to identify security vulnerabilities in the codebase. These tools can be valuable in future assignments for automated vulnerability scanning and code analysis. I can share the vulnerability assessment report I created, which highlights the identified security vulnerabilities, their impact, and recommended mitigation strategies. This demonstrates my ability to analyze and address security risks in a software application.
+![Slide1](https://github.com/shanshee/Software-Security/assets/119387308/85d47933-596f-48a1-be02-5a6d5f8bff04)
+![Slide2](https://github.com/shanshee/Software-Security/assets/119387308/0d7cc1e2-d2ca-4792-ae2d-e1544e1b0217)
+![Slide3](https://github.com/shanshee/Software-Security/assets/119387308/4cf5f4ca-ad1e-4024-80bf-be2bc7f6a7a3)
+![Slide4](https://github.com/shanshee/Software-Security/assets/119387308/9c88d39b-63db-413d-b83c-da0191e636ca)
+![Slide5](https://github.com/shanshee/Software-Security/assets/119387308/1c2cc90c-5ba7-4188-b7fa-a5b55b17a6d0)
+![Slide6](https://github.com/shanshee/Software-Security/assets/119387308/17e3a584-c131-46ad-aee1-83c3f7e01195)
+![Slide7](https://github.com/shanshee/Software-Security/assets/119387308/1c7d9ce8-a11e-4392-910c-b7c24ae0ee97)
+![Slide8](https://github.com/shanshee/Software-Security/assets/119387308/2e8d7319-1420-43f3-9291-678ca2909fac)
+
+
+
+
+
